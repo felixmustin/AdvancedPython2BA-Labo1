@@ -13,7 +13,7 @@ def fact(n):
 	pass
 
 def roots(a, b, c):
-	"""Computes the roots of the ax^2 + bx + x = 0 polynomial.
+	"""Computes the roots of the ax^2 + bx + c = 0 polynomial.
 	
 	Pre: -
 	Post: Returns a tuple with zero, one or two elements corresponding
